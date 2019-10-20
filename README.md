@@ -1,6 +1,6 @@
 # Newclear
 
-Newclear is a contamination of nuclear and reNEWable energy. Emphasis on the clea(n|r), new tech and reNEWable character of nuclear energy. Not affiliated with any political party.
+Newclear is a contamination of nuclear and reNEWable energy. Emphasis on the clean, new tech and reNEWable character of nuclear energy. Not affiliated with any political party.
 
 ## Readinglist
 
