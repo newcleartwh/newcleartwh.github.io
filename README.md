@@ -9,7 +9,7 @@ Newclear is a contamination of nuclear and reNEWable energy. Emphasis on the cle
 
 ## Image problem vs. #Factfulness
 
-The nuclear industry has an image problem, that's why I suggest the rebranding to newclear! This poster will help us pinpoint the image problem (and is very useful even besides this theme).
+The nuclear industry has an image problem, that's why I suggest the rebranding to [newclear](https://twitter.com/newclea64645516)! This poster will help us pinpoint the image problem (and is very useful even besides this theme).
 
 ![factfulness_dramatic_instincts](https://s3-eu-west-1.amazonaws.com/static.gapminder.org/GapminderMedia/wp-uploads/20180325155717/factfulness-poster-web-images-20180215-v3_Dramatic-instincts-765x1024.jpg)
 
