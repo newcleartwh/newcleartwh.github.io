@@ -6,6 +6,10 @@ Newclear is a contamination of nuclear and reNEWable energy. Emphasis on the cle
 
 - [Academic Paper on why fossil fuels do more harm than nuclear power](https://blogs.ei.columbia.edu/2013/04/15/fossil-fuels-do-far-more-harm-than-nuclear-power/)
 
+## Awesome Maps
+
+- [Electricity Map](https://www.electricitymap.org/?page=map&solar=false&remote=true&wind=false)
+
 
 ## Image problem vs. #Factfulness
 
