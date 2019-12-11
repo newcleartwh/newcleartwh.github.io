@@ -2,6 +2,8 @@
 
 Newclear is a contamination of nuclear and reNEWable energy. Emphasis on the clean, new tech and reNEWable character of nuclear energy. Not affiliated with any political party.
 
+<a class="twitter-timeline" data-theme="light" href="https://twitter.com/renewclear1?ref_src=twsrc%5Etfw">Tweets by renewclear1</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Readinglist
 
 - [Academic Paper on why fossil fuels do more harm than nuclear power](https://blogs.ei.columbia.edu/2013/04/15/fossil-fuels-do-far-more-harm-than-nuclear-power/)
