@@ -29,7 +29,7 @@ Zoals je ziet nog heel wat #fossiel in aanwezig. De cijfers liegen er niet om: 8
 
 Als je met dit alles in het achterhoofd ECHT overtuigd bent dat we #gascentrales moeten bijzetten i.p.v. een #gasuitstap. Dan mag je mij, a.u.b. serieus, proberen overtuigen.
 
-![](debateme.png)
+![](assets/images/debatemefinal.png)
 
 Op twitter, op email renewcler of op reddit. Ik spreek vloeiend english en nederlands (en helaas nog steeds vloeibaar Le français). 
 In deze COVID tijden bij deze dus een digitale "Debate me" een warme uitnodiging om me het vuur a.d. schenen te leggen in een publiek forum.
