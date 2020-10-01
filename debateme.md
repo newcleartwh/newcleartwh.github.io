@@ -1,4 +1,4 @@
-# Gasuitstap
+# Gasuitstap (todo finalize)
 
 In dit korte overzichtsdocument neem ik je even kort mee in de redenering die ik al enige tijd maak.
 Ik maak me al lang zorgen over het #klimaat tegenwoordig iedereen zowat (zelfs Big Oil probeert hun imago te #greenwashen) maar in de jaren 90 ik ook al!
