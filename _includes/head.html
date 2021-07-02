@@ -1,0 +1,53 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="copyright" content="Kopimi!">
+
+{% if page.preview %}
+  <meta name="robots" content="noindex">
+{% else %} 
+  <meta name="robots" content="index,follow">
+{% endif %}
+
+  <meta name="author" content="Re Newclear">
+{% if page.img %}
+  <meta name="twitter:card" content="summary_large_image" />
+{% else %} 
+  <meta name="twitter:card" content="summary" />
+{% endif %}
+  <meta name="twitter:site" content="@renewclear1">
+  <meta name="twitter:creator" content="@renewclear1">
+  <meta name="medium" content="blog">
+
+{% if page.title%}
+  <title>{{ page.title }}</title>
+  <meta name="og:title" content="{{ page.title }}">
+{% endif %}
+{% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  <meta name="og:description" content="{{ page.description }}">
+{% endif %}
+{% if page.img %}
+  <meta name="twitter:image" content="{{ site.url }}{{ page.img }}?{{page.refreshnum}}">
+  <meta property="og:image" content="{{site.url}}{{ page.img }}?{{page.refreshnum}}">
+{% endif %}
+{% if page.date %}
+  <meta name="date" content="{{ page.date | date: "%Y-%m-%d" }}" scheme="YYYY-MM-DD">
+{% endif %}
+{% if page.categories %}
+  <meta name="language" content="{{ page.categories }}">
+{% endif %}
+  <meta name="rawpath" content="https://raw.github.com/newcleartwh/newcleartwh.github.io/master/{{ page.path}}">
+
+  <link rel="shortcut icon" href="/assets/images/notyet.png" />
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+{% if page.translated %}
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+  <link rel="alternate" hreflang="{{post.lang}}" href="{{post.langurl}}" title="{{post.title}}">
+{% endfor %}
+{% endif %}
+</head>
