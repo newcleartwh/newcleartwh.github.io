@@ -1,5 +1,6 @@
 ---
 title: Antwoord op trek klimaatelessen uit coronacrisis
+description: Uitstekend artikel maar gewoon enkele puntjes op de i zetten
 date: 2021-07-02T17:34:00+00:00
 img: /assets/images/renewclear1.png
 refreshnum: 1
@@ -10,7 +11,6 @@ categories: nl
 lang: nl
 permalink: /2021/07/02/antwoord-klimaatlessen-coronacrisis
 sitemap: true
-description: Uitstekend artikel, gewoon enkele puntjes op de i zetten
 ---
 
 Ik heb een antwoord geschreven op [dit artikel](https://web.archive.org/web/20210630084210/https://www.tijd.be/opinie/algemeen/trek-klimaatlessen-uit-coronacrisis/10316819.html)
