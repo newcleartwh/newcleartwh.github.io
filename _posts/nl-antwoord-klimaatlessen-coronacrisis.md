@@ -1,5 +1,5 @@
 ---
-title: Antwoord op "Trek klimaatelessen uit coronacrisis"
+title: Antwoord op trek klimaatelessen uit coronacrisis
 date: 2021-07-02T17:34:00+00:00
 img: /assets/images/renewclear1.png
 refreshnum: 1
@@ -9,6 +9,7 @@ shortlink: /kuc
 categories: nl
 lang: nl
 permalink: /2021/07/02/antwoord-klimaatlessen-coronacrisis
+sitemap: true
 description: Uitstekend artikel, gewoon enkele puntjes op de i zetten
 ---
 
