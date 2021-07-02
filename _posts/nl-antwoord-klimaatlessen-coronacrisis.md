@@ -7,6 +7,7 @@ author: Re Newclear
 layout: post
 shortlink: /kuc
 lang: nl
+permalink: /2021/07/02/antwoord-klimaatlessen-coronacrisis
 description: Uitstekend artikel, gewoon enkele puntjes op de i zetten
 ---
 
