@@ -1,3 +1,11 @@
+---
+title: Links
+date: 2021-07-02T17:29:12+00:00
+author: Re Newclear
+layout: page
+permalink: /index.html
+---
+
 # Newclear
 
 Newclear is a contamination of nuclear and reNEWable energy. Emphasis on the clean, new tech and reNEWable character of nuclear energy. Not affiliated with any political party.
