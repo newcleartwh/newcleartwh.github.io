@@ -11,22 +11,15 @@ permalink: /nl/blog.html
     {% for post in site.posts %}
 		{% if post.lang == "nl" %}
 			{% capture post_year %}<span class="date">{{ post.date | date: "%Y" }}</span>{% endcapture %}
-			{% if post_year != current_year %}
-				{% unless forloop.first %}</ul>{% endunless %}
-				<p class="date">{{ post_year }}</p>
-				<ul class="post-list">
-				{% capture current_year %}{{ post_year }}{% endcapture %}
-			{% endif %}
-
 			<div class="postentry">
 					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 					<span class="post-meta date">[{{ post.date | date: "%Y-%m-%d" }}]</span>
 			</div>
-			<div class="postentry">
-					<a class="post-link" href="/antw">Antwoord op 'Trek klimaatelessen uit coronacrisis'</a>
-					<span class="post-meta date">2021-07-02</span>
-			</div>
 		{% endif %}
     {% endfor %}
-</center>
+	<div class="postentry">
+			<a class="post-link" href="/antw">Antwoord op 'Trek klimaatelessen uit coronacrisis'</a>
+			<span class="post-meta date">2021-07-02</span>
+	</div>
+	</center>
 </div>
