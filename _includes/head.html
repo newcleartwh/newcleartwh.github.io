@@ -42,8 +42,6 @@
   <meta name="rawpath" content="https://raw.github.com/newcleartwh/newcleartwh.github.io/master/{{ page.path}}">
 
   <link rel="shortcut icon" href="/assets/images/newclear1.png" />
-  <link rel="stylesheet" href="/assets/css/styles.css">
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
 {% if page.translated %}
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
