@@ -1,0 +1,31 @@
+---
+layout: page
+title: Re Newclear's english blog.
+description: ...soon...
+permalink: /en/blog.html
+---
+
+<div class="home">
+<center>
+
+    {% for post in site.posts %}
+		{% if post.lang == "en" %}
+			{% capture post_year %}<span class="date">{{ post.date | date: "%Y" }}</span>{% endcapture %}
+			<div class="postentry">
+					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+					<span class="post-meta date">[{{ post.date | date: "%Y-%m-%d" }}]</span>
+			</div>
+		{% endif %}
+    {% endfor %}
+	<div class="postentry">
+			<a class="post-link" href="/antw">Antwoord op 'Trek klimaatelessen uit coronacrisis'</a>
+			<span class="post-meta date">2021-07-02</span>
+	</div>
+	</center>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
