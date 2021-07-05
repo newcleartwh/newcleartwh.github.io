@@ -50,8 +50,7 @@ Eigenlijk ben ik het op vele vlakken roerend eens met de auteurs van het artikel
     Al denk ik dat het tij mogelijk a.h. keren is op dat vlak [op grotere schaal dan toch](https://twitter.com/Horizon238/status/1385170636402831364), hier in ons kleine 🇧🇪 belgenlandje dreigen we kerncentrales die a) [de staatskas spijzen](https://nl.wikipedia.org/wiki/Nucleaire_rente#Belgi%C3%AB), b) [geen enkele doden op hun geweten hebben](https://www.laka.org/docu/ines/location/europe/belgium?orderby=ines_rating&sort=DESC) en c) [die goedkoper zijn dan het alternatief](https://www.demorgen.be/nieuws/studie-kerncentrales-openhouden-bespaart-100-miljoen-per-jaar~b2766c27/) te sluiten.
 
 
-    Een bijkomend onaanvaardbaar risico voor het alternatief hier (gascentrales) is het aantal extra longziektes (een stille en onderschatte 'killer') die er bij komen kijken. Wereldwijd zijn longziektes bij [de grootste doodoorzaken](https://ourworldindata.org/grapher/annual-number-of-deaths-by-cause). Radioactieve incidenten zitten zelfs niet in de top-30. 
-
+    Een bijkomend onaanvaardbaar risico voor het alternatief hier (gascentrales) is het aantal extra longziektes (een stille en onderschatte 'killer') die er bij komen kijken. Wereldwijd zijn longziektes bij [de grootste doodoorzaken](https://ourworldindata.org/grapher/annual-number-of-deaths-by-cause). Radioactieve incidenten zitten zelfs niet in de top-30.
 
 5. 
     > **De oplossing moet komen van investeringen én gedrag.**
