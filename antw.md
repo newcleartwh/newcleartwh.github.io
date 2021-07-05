@@ -40,13 +40,17 @@ Eigenlijk ben ik het op vele vlakken roerend eens met de auteurs van het artikel
 4. 
     > **Sommige risico's zijn onaanvaardbaar**
 
-Hier vraag ik me oprecht iets af. Ik ben zelf al decades overtuigd van de klimaatverandering en dat we er iets aan moeten doen (o.a. [deze video](https://www.youtube.com/watch?v=I7i-K3nw5mo) hielp in die overtuiging). Maar kijkende naar waar we na al die jaren staan op dat vlak maak ik me, meer dan ooit, zorgen. Als we enkel nog maar kijken naar onze energie bevoorrading stel ik vast dat we wereldwijd nog steeds [voor 84% afhankelijk zijn van fossiele brandstoffen](https://ourworldindata.org/fossil-fuels#what-share-of-primary-energy-comes-from-fossil-fuels). En dan hebben we het nog niet over een oplossing voor beton, artificiële bemesting, ...  Desondanks na wereldwijd miljarden investeringen in zon, batterijen, wind, ...
 
-Als dat een onaanvaardbaar risico is (wat ik denk) dan snap ik niet dat er bepaalde technologieën quasi worden uitgesloten of in deze doodgezwegen om een significante bijdrage te kunnen doen aan de oplossing.
+    Hier vraag ik me oprecht iets af. Ik ben zelf al decades overtuigd van de klimaatverandering en dat we er iets aan moeten doen (o.a. [deze video](https://www.youtube.com/watch?v=I7i-K3nw5mo) hielp in die overtuiging). Maar kijkende naar waar we na al die jaren staan op dat vlak maak ik me, meer dan ooit, zorgen. Als we enkel nog maar kijken naar onze energie bevoorrading stel ik vast dat we wereldwijd nog steeds [voor 84% afhankelijk zijn van fossiele brandstoffen](https://ourworldindata.org/fossil-fuels#what-share-of-primary-energy-comes-from-fossil-fuels). En dan hebben we het nog niet over een oplossing voor beton, artificiële bemesting, ...  Desondanks na wereldwijd miljarden investeringen in zon, batterijen, wind, ...
 
-Al denk ik dat het tij mogelijk a.h. keren is op dat vlak [op grotere schaal dan toch](https://twitter.com/Horizon238/status/1385170636402831364), hier in ons kleine 🇧🇪 belgenlandje dreigen we kerncentrales die a) [de staatskas spijzen](https://nl.wikipedia.org/wiki/Nucleaire_rente#Belgi%C3%AB), b) [geen enkele doden op hun geweten hebben](https://www.laka.org/docu/ines/location/europe/belgium?orderby=ines_rating&sort=DESC) en c) [die goedkoper zijn dan het alternatief](https://www.demorgen.be/nieuws/studie-kerncentrales-openhouden-bespaart-100-miljoen-per-jaar~b2766c27/) te sluiten.
 
-Een bijkomend onaanvaardbaar risico voor het alternatief hier (gascentrales) is het aantal extra longziektes (een stille en onderschatte 'killer') die er bij komen kijken. Wereldwijd zijn longziektes bij [de grootste doodoorzaken](https://ourworldindata.org/grapher/annual-number-of-deaths-by-cause). Radioactieve incidenten zitten zelfs niet in de top-30. 
+    Als dat een onaanvaardbaar risico is (wat ik denk) dan snap ik niet dat er bepaalde technologieën quasi worden uitgesloten of in deze doodgezwegen om een significante bijdrage te kunnen doen aan de oplossing.
+
+
+    Al denk ik dat het tij mogelijk a.h. keren is op dat vlak [op grotere schaal dan toch](https://twitter.com/Horizon238/status/1385170636402831364), hier in ons kleine 🇧🇪 belgenlandje dreigen we kerncentrales die a) [de staatskas spijzen](https://nl.wikipedia.org/wiki/Nucleaire_rente#Belgi%C3%AB), b) [geen enkele doden op hun geweten hebben](https://www.laka.org/docu/ines/location/europe/belgium?orderby=ines_rating&sort=DESC) en c) [die goedkoper zijn dan het alternatief](https://www.demorgen.be/nieuws/studie-kerncentrales-openhouden-bespaart-100-miljoen-per-jaar~b2766c27/) te sluiten.
+
+
+    Een bijkomend onaanvaardbaar risico voor het alternatief hier (gascentrales) is het aantal extra longziektes (een stille en onderschatte 'killer') die er bij komen kijken. Wereldwijd zijn longziektes bij [de grootste doodoorzaken](https://ourworldindata.org/grapher/annual-number-of-deaths-by-cause). Radioactieve incidenten zitten zelfs niet in de top-30. 
 
 
 5. 
