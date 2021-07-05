@@ -5,7 +5,7 @@ date: 2021-07-02T17:34:00+00:00
 img: /assets/images/renewclear1.png
 refreshnum: 1
 author: Re Newclear
-layout: page
+layout: post
 shortlink: /antw-kuc
 categories: nl
 lang: nl
