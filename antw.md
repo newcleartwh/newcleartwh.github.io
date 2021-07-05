@@ -13,7 +13,7 @@ permalink: /antw
 sitemap: true
 ---
 
-Ik heb een antwoord geschreven op [dit artikel](https://web.archive.org/web/20210630084210/https://www.tijd.be/opinie/algemeen/trek-klimaatlessen-uit-coronacrisis/10316819.html) dat enkele dagen [geleden in de Tijd verscheen](https://www.tijd.be/opinie/algemeen/trek-klimaatlessen-uit-coronacrisis/10316819.html).
+Ik heb een antwoord geschreven op ["Trek klimaatlessen uit coronacrisis"](https://web.archive.org/web/20210630084210/https://www.tijd.be/opinie/algemeen/trek-klimaatlessen-uit-coronacrisis/10316819.html) dat enkele dagen [geleden in de Tijd verscheen](https://www.tijd.be/opinie/algemeen/trek-klimaatlessen-uit-coronacrisis/10316819.html).
 
 Eigenlijk ben ik het op vele vlakken roerend eens met de auteurs van het artikel. Waarom dan deze blogpost? Wel, omdat ik graag wat puntjes op de spreekwoordelijke i wil zetten of dan toch vanuit mijn perspectief.
 
