@@ -28,7 +28,7 @@ Eigenlijk ben ik het op vele vlakken roerend eens met de auteurs van het artikel
 2. 
     > **Onze keuzes vandaag bepalen de wereld van morgen.** 
  
-    Ook dit lijkt de evidentie zelf. En toch kiest onze minister van energie voor een keuze voor [MEER CO2](https://twitter.com/renewclear1/status/1371115530602618881) (wat maar een van de vele broeikasgassen is). Bovendien vergroot ze met die centrales het risico op methaan gaslekken wat N.B. [een veel schadelijker broeikasgas](https://nl.wikipedia.org/wiki/Methaan#Schadelijkheid). Ze plant zonder miljoenen te investeren in nieuwe fossiele brandstof centrales. Wouden we daar niet net van af?
+    Ook dit lijkt de evidentie zelf. En toch kiest onze minister van energie voor een keuze voor [MEER CO2](https://twitter.com/renewclear1/status/1371115530602618881) (wat maar een van de vele broeikasgassen is). Bovendien vergroot ze met die centrales het risico op methaan gaslekken wat N.B. [een veel schadelijker broeikasgas](https://nl.wikipedia.org/wiki/Methaan#Schadelijkheid). Ze plant zonder verpinken miljoenen te investeren in nieuwe fossiele brandstof centrales. Wouden we daar niet net van af?
 
 
 3. 
