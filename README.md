@@ -57,4 +57,6 @@ I'd love to welcome contributions. In writing, in advocacy, and in the future ma
 - [https://standupfornuclear.org/](https://standupfornuclear.org/)
 - [https://www.100twh.be](https://www.100twh.be)
 - [http://yera.be](http://yera.be)
+- [https://withouthotair.com/](https://withouthotair.com/)
+- [https://whatisnuclear.com/](https://whatisnuclear.com/)
 
