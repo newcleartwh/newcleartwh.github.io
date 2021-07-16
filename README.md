@@ -14,8 +14,16 @@ Newclear is a contamination of nuclear and reNEWable energy. Emphasis on the cle
 
 ## Readinglist
 
+### Articles
 - [Academic Paper on why fossil fuels do more harm than newclear power](https://blogs.ei.columbia.edu/2013/04/15/fossil-fuels-do-far-more-harm-than-nuclear-power/)
 - [Newclear waste ideas vs reality](https://thoughtscapism.com/2017/11/04/nuclear-waste-ideas-vs-reality/)
+- [Synopsis of 'Sustainable Energy – without the hot air](https://withouthotair.com//synopsis10.pdf)
+
+### Books
+- [Factfulness]()
+- [How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need]()
+- [Sustainable Energy – without the hot air](https://withouthotair.com/)
+
 ## Awesome Maps
 
 - [Electricity Map](https://www.electricitymap.org/?page=map&solar=false&remote=true&wind=false)
