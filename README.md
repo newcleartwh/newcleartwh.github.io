@@ -59,4 +59,5 @@ I'd love to welcome contributions. In writing, in advocacy, and in the future ma
 - [http://yera.be](http://yera.be)
 - [https://withouthotair.com/](https://withouthotair.com/)
 - [https://whatisnuclear.com/](https://whatisnuclear.com/)
+- [https://www.nuclearscienceweek.org/](https://www.nuclearscienceweek.org/) **Nuclear Science week runs from October 18 – 22, 2021**
 
